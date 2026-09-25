@@ -6,7 +6,7 @@ A simple Windows tool for setting custom resolutions in Marvel Rivals. Pick an a
 
 ## Features
 
-- Set resolution from preset 16:9 and 16:10 options
+- Set resolution from preset 16:9 and 16:10 options because 16:# is the only res that gives no black bars.
 - Automatically detects `GameUserSettings.ini` and the game launcher
 - Locks the INI to read-only after saving so the game doesn't overwrite it
 - Optional "Save + Start" button to apply and launch the game in one click
